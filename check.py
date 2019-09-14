@@ -1,1 +1,1 @@
-print("Checking the git version com=ntrol system")
+print("Checking the git version control system")
